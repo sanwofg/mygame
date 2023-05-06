@@ -1,0 +1,48 @@
+#ice-button{
+    
+    border: none;
+    /* padding: 20px; */
+    margin: 20px;
+    border-radius: 10px;
+}
+img:hover{
+    opacity: 0.8;
+}
+img:active{
+    opacity: 0.5;
+}
+#fire-button{
+    border: none;
+    /* padding: 20px; */
+    margin: 20px;
+    border-radius: 10px;
+}
+
+#water-button{
+    border: none;
+    /* padding: 20px; */
+    margin: 20px;
+    border-radius: 10px;
+}
+#score-table{
+    font-size: 30px;
+    color: black;
+    font-weight: bolder;
+    padding-left: 20vw;
+}
+#wins-board{
+     font-size:  25px;
+     color: rgb(32, 45, 193);
+     font-weight: 600;
+     padding-left: 23vw;
+}
+#reset-button{
+    font-size: 30px;
+    margin-left: 25vw;
+    padding: 10px;
+    color: green;
+    background-color: whitesmoke;
+    box-shadow: 1px 1px 1px whitesmoke;
+    border: none;
+
+}
